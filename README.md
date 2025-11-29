@@ -34,11 +34,13 @@ Python • SQL • Bash • J2EE • Oracle • ArcGIS • PostgreSQL • QGIS �
 - **Custom-built ticketing system** – for change tracking and rollout coordination
 
 ## 📂 Artifacts & Scripts
-- **ERP Provisioning Workflow:** [artifacts/ERP-Provisioning-Workflow.md](artifacts/ERP-Provisioning-Workflow.md)  
-- **Custom IAM Integration:** [artifacts/Custom-IAM-Integration.md](artifacts/Custom-IAM-Integration.md)  
-- **GIS Modernization Workflow:** [artifacts/GIS-Modernization-Workflow.md](artifacts/GIS-Modernization-Workflow.md)  
-- **Linux Hardening Script:** [scripts/linux-hardening.sh](scripts/linux-hardening.sh)
-
+- **ERP Provisioning Workflow:** [Artifacts/ERP-Provisioning-Workflow.md](https://github.com/Suren-Jewels/ERP-GIS-Modernization/blob/main/Artifacts/ERP-Provisioning-Workflow.md)
+- **Custom IAM Integration:** [Artifacts/Custom-IAM-Integration.md](https://github.com/Suren-Jewels/ERP-GIS-Modernization/blob/main/Artifacts/Custom-IAM-Integration.md)  
+- **GIS Modernization Workflow:** [Artifacts/GIS-Modernization-Workflow.md](https://github.com/Suren-Jewels/ERP-GIS-Modernization/blob/main/Artifacts/GIS-Modernization-Workflow.md)
+- **Linux Hardening Script:** [scripts/linux-hardening.sh](https://github.com/Suren-Jewels/ERP-GIS-Modernization/blob/main/scripts/linux-hardening.sh)
+- **ERP Migration Tasks Script:** [scripts/erp_migration_tasks.ps1](https://github.com/Suren-Jewels/ERP-GIS-Modernization/blob/main/scripts/erp_migration_tasks.ps1)
+- **GIS Data Pipeline Script:** [scripts/gis_data_pipeline.sql](https://github.com/Suren-Jewels/ERP-GIS-Modernization/blob/main/scripts/gis_data_pipeline.sql)
+  
 ## 📊 Impact
 - Hardened 50+ Linux servers across ERP and GIS environments  
 - Reduced deployment time by 60% with automation and reproducible workflows  
