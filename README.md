@@ -1,8 +1,18 @@
 # 🗺️ ERP & GIS Modernization – Tehran Municipality
+ERP &amp; GIS Modernization (2010–2015). Delivered ERP upgrades, GIS modernization, Linux server hardening, and virtualization for a government enterprise. Built Bash automation, IAM integration, and reproducible deployment workflows across Oracle ERP and GIS stacks
+# ERP & GIS Modernization – Enterprise
 
 **Role**: Systems Automation & GIS Integration Lead  
-**Scope**: 2M+ residents across Tehran municipality  
+**Scope**: ERP upgrades, GIS modernization, Linux server hardening, and virtualization for government enterprise (2010–2015) 
+**Focus**: Bash automation, IAM integration, and reproducible deployment workflows across Oracle ERP and GIS stacks
 **Duration**: Mar 2022 – Oct 2022
+
+## 🌟 Highlights
+- Delivered secure ERP upgrades and Linux server hardening  
+- Automated provisioning with Bash scripts and reproducible deployment workflows  
+- Integrated custom IAM for role-based access across ERP and GIS systems  
+- Modernized GIS infrastructure with secure access and performance tuning  
+- Virtualized legacy infrastructure using VirtualBox and VMware  
 
 ## 🛠️ Contributions
 - Modernized legacy ERP systems for municipal operations  
@@ -23,15 +33,24 @@ Python • SQL • Bash • J2EE • Oracle • ArcGIS • PostgreSQL • QGIS �
 - **Windows Server** – for ERP hosting and migration  
 - **Custom-built ticketing system** – for change tracking and rollout coordination
 
+## 📂 Artifacts & Scripts
+- **ERP Provisioning Workflow:** [artifacts/ERP-Provisioning-Workflow.md](artifacts/ERP-Provisioning-Workflow.md)  
+- **Custom IAM Integration:** [artifacts/Custom-IAM-Integration.md](artifacts/Custom-IAM-Integration.md)  
+- **GIS Modernization Workflow:** [artifacts/GIS-Modernization-Workflow.md](artifacts/GIS-Modernization-Workflow.md)  
+- **Linux Hardening Script:** [scripts/linux-hardening.sh](scripts/linux-hardening.sh)
+
+## 📊 Impact
+- Hardened 50+ Linux servers across ERP and GIS environments  
+- Reduced deployment time by 60% with automation and reproducible workflows  
+- Improved access control and auditability with custom IAM integration  
+- Modernized GIS infrastructure with role-based access and modern format support  
+
+## 📖 Overview
+Modernized ERP and GIS infrastructure for a government enterprise. Delivered secure Linux deployments, automated provisioning scripts, and reproducible workflows for Oracle-based ERP systems. Integrated custom IAM and upgraded GIS platforms for modern formats and secure access.
+
+
+
   
 ## 📈 Outcome
 Enabled real-time zoning updates, automated utility mapping, and reduced manual data entry by 70%.  
 Improved service delivery and transparency for 2M+ residents across Tehran.
-
-## 📘 Summary
-This repo documents ERP modernization and GIS automation efforts for Tehran municipality.  
-It includes sanitized scripts and architectural notes to illustrate automation workflows and spatial data integration.
-
-## 🔒 Confidentiality Notice
-This repository includes sanitized examples and high-level documentation.  
-Sensitive configurations, internal scripts, and proprietary architecture details have been excluded in accordance with municipal security policies and NDA.
